@@ -1,0 +1,42 @@
+baseURL = "https://heds-lab.com/"
+defaultContentLanguage = "en"
+languageCode = "en"
+
+title = "Human-centered Educational Data Science Lab"
+
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[params]
+  footer = "HEDS Lab"
+  avatarURL = "/images/HEDS-logo-simple.svg"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "people"
+    name = "People"
+    url = "/people/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Get in touch"
+    url = "/contact/"
+    weight = 4
+
+    # We use feather-icons: https://feathericons.com/
+    # pre = "<span data-feather='github'></span>"
