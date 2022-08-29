@@ -85,8 +85,9 @@ GitHub, Twitter, Site, etc.
 
 {{< figure src="/images/people/jing.jpg" class="people-image">}}
 
-**Education:**
+**Education:** Ed.M. in Educational Psychology (Columbia University Teachers College), M.A. in Instructional Technology and Media (Columbia University Teachers College)
 
 **Year started:** 2022
 
-GitHub, Twitter, Site, etc.
+[{{< fa envelope >}} zhang391@illinois.edu](mailto:zhang391@illinois.edu)\
+[{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=D44sPRgAAAAJ&hl=en)
