@@ -22,11 +22,13 @@ type: "page"
 
 {{< figure src="/images/people/yingbin.jpg" class="people-image">}}
 
-**Education:**
+**Education:** M.A. in Educational Measurement (Beijing Normal University)
 
 **Year started:** 2018
 
-GitHub, Twitter, Site, etc.
+[{{< fa envelope >}} yingbin2@illinois.edu](mailto:yingbin2@illinois.edu)\
+[{{< fa house >}} Personal Page](https://yingbinzhang.netlify.app/)\
+[{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=Uyp5YeQAAAAJ&hl=en&authuser=1)
 
 
 ### Aysa Fan
@@ -68,13 +70,15 @@ GitHub, Twitter, Site, etc.
 
 ### Rachel Zhou
 
-<!-- {{< figure src="/images/people/rachel.jpg" class="people-image">}} -->
+{{< figure src="/images/people/rachel.jpg" class="people-image">}}
 
-**Education:**
+**Education:** M.S. Ed in Learning Sciences and Technologies (University of Pennsylvania)
 
 **Year started:** 2021
 
-GitHub, Twitter, Site, etc.
+[{{< fa envelope >}} yiqiuz3@illinois.edu](mailto:yiqiuz3@illinois.edu)\
+[{{< fa fab github >}} GitHub](https://github.com/Rachel0901)\
+[{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=uwORAGEAAAAJ&hl=en&oi=ao)
 
 
 ### Jing Zhang
