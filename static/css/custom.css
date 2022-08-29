@@ -1,0 +1,38 @@
+/* :root {
+    --container-width: 1000px;
+}
+
+main#content>.container {
+    width: 90%;
+} */
+
+.people-image {
+    float: left;
+    width: 12em;
+    margin-top: -.1rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+    clear: both;
+    /* Ignore float objects on both sides */
+}
+
+@media only screen and (max-width: 500px) {
+    .nav-brand {
+        visibility: hidden;
+        position: relative;
+        font-size: 0.4rem;
+    }
+    .nav-brand:after {
+        visibility: visible;
+        position: absolute;
+        left: 0;
+        content: "HEDS Lab";
+        font-size: 0.95rem;
+    }
+}
