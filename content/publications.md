@@ -31,3 +31,25 @@ type: "page"
 * Hutt, S., Baker, R. S., Ocumpaugh, J., Munshi, A., Andres, J. M. A. L., Karumbaiah, S., Slater, S., Biswas, G., Paquette, L., Bosch, N., & van Velsen, M. (2022). Quick red fox: an app supporting a new paradigm in qualitative research on AIED for STEM. Artificial Intelligence in STEM Education: The Paradigmatic Shifts in Research, Education, and Technology (pp. 319-332). CRC Press. https://doi.org/10.1201/9781003181187-26
 
 * Zhang, Y., Paquette, L., Bosch, N., Ocumpaugh, J., Biswas, G., Hutt, S., & Baker, R. S. (2022). The evolution of metacognitive strategy use in an open-ended learning environment: Do prior domain knowledge and motivation play a role?. Contemporary Educational Psychology, 69, 102064. https://doi.org/10.1016/j.cedpsych.2022.102064
+
+### 2021
+
+* Ocumpaugh, J., Hutt, S., Andres, J. M. A. L., Baker, R. S., Biswas, G., Bosch, N., Paquette, L., & Munshi, A. (2021). Using qualitative data from targeted interviews to inform rapid AIED development. In Proceedings of the 29th international conference on computers in education (pp. 69-74).
+
+* Pinto, J. D., Zhang, Y., Paquette, L., & Fan, A. X. (2021). Investigating elements of student persistence in an introductory computer science course. In 5th Educational Data Mining in Computer Science Education (CSEDM) Workshop.
+
+* Zhang, Y., Paquette, L., Baker, R. S., Ocumpaugh, J., Bosch, N., Biswas, G., & Munshi, A. (2021). Can strategic behaviour facilitate confusion resolution? The interplay between confusion and metacognitive strategies in Betty’s Brain. Journal of Learning Analytics, 8(3), 28-44. https://doi.org/10.18608/jla.2021.7161
+
+* Bosch, N., & Paquette, L. (2021). What's Next? Sequence Length and Impossible Loops in State Transition Measurement. Journal of Educational Data Mining, 13(1), 1-23. https://doi.org/10.5281/zenodo.5048423
+
+* Baker, R. S., Nasiar, N., Ocumpaugh, J. L., Hutt, S., Andres, J. M., Slater, S., Schofield, M., Moore, A., Paquette, L., Munshi, A. & Biswas, G. (2021, June). Affect-targeted interviews for understanding student frustration. In International Conference on Artificial Intelligence in Education (pp. 52-63). Cham: Springer International Publishing. https://doi.org/10.1007/978-3-030-78292-4_5
+
+* Bosch, N., Zhang, Y., Paquette, L., Baker, R., Ocumpaugh, J., & Biswas, G. (2021, May). Students’ verbalized metacognition during computerized learning. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (pp. 1-12). https://doi.org/10.1145/3411764.3445809
+
+* Hutt, S., Ocumpaugh, J., Andres, J. M. A. L., Munshi, A., Bosch, N., Baker, R. S., Zhang, Y., Paquette, L., Slater, S. & Biswas, G. (2021). Who’s stopping you?–Using microanalysis to explore the impact of science anxiety on self-regulated learning operations. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 43, No. 43). https://escholarship.org/uc/item/36s0d7bv
+
+* Zhang, Y., & Paquette, L. (2021). Mining sequential patterns with high usage variation. In Proceedings of the 14th Educational Data Mining Conference (pp. 704-707).
+
+* Hutt, S., Ocumpaugh, J., Ma, J., Andres, A. L., Bosch, N., Paquette, L., Biswas, G., & Baker, R. S. (2021). Investigating SMART Models of Self-Regulation and Their Impact on Learning. In Proceedings of the 14th Educational Data Mining Conference (pp. 580-587).
+
+* Paquette, L., Grant, T., Zhang, Y., Biswas, G., & Baker, R. (2021). Using epistemic networks to analyze self-regulated learning in an open-ended problem-solving environment. In Advances in Quantitative Ethnography: Second International Conference, ICQE 2020 (pp. 185-201). Springer International Publishing. https://doi.org/10.1007/978-3-030-67788-6_13
