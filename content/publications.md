@@ -8,7 +8,7 @@ type: "page"
 
 ### Pre-print
 
-* Baker, R. S., Hutt, S., Bosch, N., Ocumpaugh, J., Biswas, G., Paquette, L., Andres, J.M.A., Nasiar, N., & Munshi, A. (2023). Data-Driven Classroom Interviewing: Data Science to Target Qualitative Research. EdArXiv Preprints. 10.35542/osf.io/xsb4a
+* Baker, R. S., Hutt, S., Bosch, N., Ocumpaugh, J., Biswas, G., Paquette, L., Andres, J.M.A., Nasiar, N., & Munshi, A. (2023). Data-Driven Classroom Interviewing: Data Science to Target Qualitative Research. EdArXiv Preprints. https://doi.org/10.35542/osf.io/xsb4a
 
 ### 2023
 
