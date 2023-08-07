@@ -53,3 +53,19 @@ type: "page"
 * Hutt, S., Ocumpaugh, J., Ma, J., Andres, A. L., Bosch, N., Paquette, L., Biswas, G., & Baker, R. S. (2021). Investigating SMART Models of Self-Regulation and Their Impact on Learning. In Proceedings of the 14th Educational Data Mining Conference (pp. 580-587).
 
 * Paquette, L., Grant, T., Zhang, Y., Biswas, G., & Baker, R. (2021). Using epistemic networks to analyze self-regulated learning in an open-ended problem-solving environment. In Advances in Quantitative Ethnography: Second International Conference, ICQE 2020 (pp. 185-201). Springer International Publishing. https://doi.org/10.1007/978-3-030-67788-6_13
+
+### 2020
+
+* Paquette, L., Ocumpaugh, J., Li, Z., Andres, A., & Baker, R. (2020). Who's Learning? Using Demographics in EDM Research. Journal of Educational Data Mining, 12(3), 1-30. https://doi.org/10.5281/zenodo.4143612
+
+* Haniya, S., & Paquette, L. (2020). Understanding learner participation at scale: How and why. E-Learning and Digital Media, 17(3), 236-252. https://doi.org/10.1177/2042753019900963
+
+* Zhang, Y., Paquette, L., Baker, R. S., Ocumpaugh, J., Bosch, N., Munshi, A., & Biswas, G. (2020, March). The relationship between confusion and metacognitive strategies in Betty's Brain. In Proceedings of the Tenth International Conference on Learning Analytics & Knowledge (pp. 276-284). https://doi.org/10.1145/3375462.3375518
+
+* Henderson, N., Rowe, J., Paquette, L., Baker, R. S., & Lester, J. (2020). Improving affect detection in game-based learning with multimodal data fusion. In Artificial Intelligence in Education: 21st International Conference, AIED 2020, Ifrane, Morocco, July 6–10, 2020, Proceedings, Part I 21 (pp. 228-239). Springer International Publishing. https://doi.org/10.1007/978-3-030-52237-7_19
+
+* Munshi, A., Mishra, S., Zhang, N., Paquette, L., Ocumpaugh, J., Baker, R., & Biswas, G. (2020). Modeling the relationships between basic and achievement emotions in computer-based learning environments. In Artificial Intelligence in Education: 21st International Conference, AIED 2020, Ifrane, Morocco, July 6–10, 2020, Proceedings, Part I 21 (pp. 411-422). Springer International Publishing. https://doi.org/10.1007/978-3-030-52237-7_33
+
+* Zhang, Y., & Paquette, L. (2020). An effect-size-based temporal interestingness metric for sequential pattern mining. In Proceedings of the 13th International Educational Data Mining Conference (pp. 720-724).
+
+* Li, T. W., & Paquette, L. (2020). Erroneous Answers Categorization for Sketching Questions in Spatial Visualization Training. In Proceedings of the 13th International Educational Data Mining Conference (pp. 148-158).
