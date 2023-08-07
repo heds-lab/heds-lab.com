@@ -25,3 +25,9 @@ type: "page"
 * Liu, Q., & Paquette, L. (2023). Using submission log data to investigate novice programmers’ employment of debugging strategies. In LAK23: 13th International Learning Analytics and Knowledge Conference (pp. 637-643). https://doi.org/10.1145/3576050.3576094
 
 * Zhang, Y., Paquette, L., Pinto, J. D., & Fan, A. X. (2023). Utilizing programming traces to explore and model the dimensions of novices' code‐writing skill. Computer Applications in Engineering Education. https://doi.org/10.1002/cae.22622
+
+### 2022
+
+* Hutt, S., Baker, R. S., Ocumpaugh, J., Munshi, A., Andres, J. M. A. L., Karumbaiah, S., Slater, S., Biswas, G., Paquette, L., Bosch, N., & van Velsen, M. (2022). Quick red fox: an app supporting a new paradigm in qualitative research on AIED for STEM. Artificial Intelligence in STEM Education: The Paradigmatic Shifts in Research, Education, and Technology (pp. 319-332). CRC Press. https://doi.org/10.1201/9781003181187-26
+
+* Zhang, Y., Paquette, L., Bosch, N., Ocumpaugh, J., Biswas, G., Hutt, S., & Baker, R. S. (2022). The evolution of metacognitive strategy use in an open-ended learning environment: Do prior domain knowledge and motivation play a role?. Contemporary Educational Psychology, 69, 102064. https://doi.org/10.1016/j.cedpsych.2022.102064
