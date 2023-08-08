@@ -98,7 +98,7 @@ type: "page"
 
 * Jiang, Y., Bosch, N., Baker, R. S., Paquette, L., Ocumpaugh, J., Andres, J. M. A. L., Moore, A.L., & Biswas, G. (2018). Expert feature-engineering vs. deep neural networks: which is better for sensor-free affect detection?. In Artificial Intelligence in Education: 19th International Conference, AIED 2018, London, UK, June 27–30, 2018, Proceedings, Part I 19 (pp. 198-211). Springer International Publishing. https://doi.org/10.1007/978-3-319-93843-1_15
 
-* Paquette, L., Bosch, N., Mercier, E., Jung, J., Shehab, S., & Tong, Y. (2018). Matching data-driven models of group interactions to video analysis of collaborative problem solving on tablet computers. International Society of the Learning Sciences, Inc.[ISLS]. https://doi.dx.org/10.22318/cscl2018.312
+* Paquette, L., Bosch, N., Mercier, E., Jung, J., Shehab, S., & Tong, Y. (2018). Matching data-driven models of group interactions to video analysis of collaborative problem solving on tablet computers. International Society of the Learning Sciences, Inc.[ISLS].
 
 * Jiang, Y., Clarke-Midura, J., Baker, R. S., Paquette, L., & Keller, B. (2018). How immersive virtual environments foster self-regulated learning. In Digital technologies and instructional design for personalized learning (pp. 28-54). IGI Global. https://doi.org/10.4018/978-1-5225-3940-7.ch002
 
