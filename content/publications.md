@@ -69,3 +69,49 @@ type: "page"
 * Zhang, Y., & Paquette, L. (2020). An effect-size-based temporal interestingness metric for sequential pattern mining. In Proceedings of the 13th International Educational Data Mining Conference (pp. 720-724).
 
 * Li, T. W., & Paquette, L. (2020). Erroneous Answers Categorization for Sketching Questions in Spatial Visualization Training. In Proceedings of the 13th International Educational Data Mining Conference (pp. 148-158).
+
+* Sanyal, D., Bosch, N., & Paquette, L. (2020). Feature Selection Metrics: Similarities, Differences, and Characteristics of the Selected Models. In Proceedings of the 13th International Educational Data Mining Conference (pp. 212-223).
+
+* Hur, P., Bosch, N., Paquette, L., & Mercier, E. (2020). Harbingers of Collaboration? The Role of Early-Class Behaviors in Predicting Collaborative Problem Solving. In Proceedings of the 13th International Educational Data Mining Conference (pp. 104-114).
+
+* Bosch, N., Crues, R., Shaik, N., & Paquette, L. (2020). " Hello,[REDACTED]": Protecting Student Privacy in Analyses of Online Discussion Forums. Grantee Submission. In Proceedings of the 13th International Educational Data Mining Conference (pp. 39-49).
+
+* Paquette, L., & Bosch, N. (2020). The invisible breadcrumbs of digital learning: how learner actions inform us of their experience. In Handbook of Research on Digital Learning (pp. 302-316). IGI Global. https://doi.org/10.4018/978-1-5225-9304-1.ch019
+
+### 2019
+
+* Paquette, L., & Baker, R. S. (2019). Comparing machine learning to knowledge engineering for student behavior modeling: a case study in gaming the system. Interactive Learning Environments, 27(5-6), 585-597. https://doi.org/10.1080/10494820.2019.1610450
+
+* Andres, J. M. A. L., Ocumpaugh, J., Baker, R. S., Slater, S., Paquette, L., Jiang, Y., ... & Biswas, G. (2019, March). Affect sequences and learning in Betty's Brain. In Proceedings of the 9th international conference on learning analytics & knowledge (pp. 383-390). https://doi.org/10.1145/3303772.3303807
+
+### 2018
+
+* Jiang, Y., Clarke-Midura, J., Keller, B., Baker, R. S., Paquette, L., & Ocumpaugh, J. (2018). Note-taking and science inquiry in an open-ended learning environment. Contemporary Educational Psychology, 55, 12-29. https://doi.org/10.1016/j.cedpsych.2018.08.004
+
+* Munshi, A., Rajendran, R., Ocumpaugh, J., Biswas, G., Baker, R. S., & Paquette, L. (2018, July). Modeling learners' cognitive and affective states to scaffold SRL in open-ended learning environments. In Proceedings of the 26th conference on user modeling, adaptation and personalization (pp. 131-138). https://doi.org/10.1145/3209219.3209241
+
+* DeFalco, J. A., Rowe, J. P., Paquette, L., Georgoulas-Sherry, V., Brawner, K., Mott, B. W., Baker, R.S., & Lester, J. C. (2018). Detecting and addressing frustration in a serious game for military training. International Journal of Artificial Intelligence in Education, 28, 152-193. https://doi.org/10.1007/s40593-017-0152-1
+
+* Bosch, N., & Paquette, L. (2018). Metrics for discrete student models: Chance levels, comparisons, and use cases. Journal of Learning Analytics, 5(2), 86-104. https://doi.org/10.18608/jla.2018.52.6
+
+* Paquette, L., Baker, R. S., & Moskal, M. (2018). A system-general model for the detection of gaming the system behavior in CTAT and LearnSphere. In Artificial Intelligence in Education: 19th International Conference, AIED 2018, London, UK, June 27–30, 2018, Proceedings, Part II 19 (pp. 257-260). Springer International Publishing. https://doi.org/10.1007/978-3-319-93846-2_47
+
+* Jiang, Y., Bosch, N., Baker, R. S., Paquette, L., Ocumpaugh, J., Andres, J. M. A. L., Moore, A.L., & Biswas, G. (2018). Expert feature-engineering vs. deep neural networks: which is better for sensor-free affect detection?. In Artificial Intelligence in Education: 19th International Conference, AIED 2018, London, UK, June 27–30, 2018, Proceedings, Part I 19 (pp. 198-211). Springer International Publishing. https://doi.org/10.1007/978-3-319-93843-1_15
+
+* Paquette, L., Bosch, N., Mercier, E., Jung, J., Shehab, S., & Tong, Y. (2018). Matching data-driven models of group interactions to video analysis of collaborative problem solving on tablet computers. International Society of the Learning Sciences, Inc.[ISLS]. https://doi.dx.org/10.22318/cscl2018.312
+
+* Jiang, Y., Clarke-Midura, J., Baker, R. S., Paquette, L., & Keller, B. (2018). How immersive virtual environments foster self-regulated learning. In Digital technologies and instructional design for personalized learning (pp. 28-54). IGI Global. https://doi.org/10.4018/978-1-5225-3940-7.ch002
+
+### 2017
+
+* Biswas, G., Baker, R. S., & Paquette, L. (2017). Data mining methods for assessing self-regulated learning. In Handbook of self-regulation of learning and performance (pp. 388-403). Routledge. https://psycnet.apa.org/doi/10.4324/9781315697048-25
+
+* Bosch, N., & Paquette, L. (2017, June). Unsupervised deep autoencoders for feature extraction with educational data. In Deep learning with educational data workshop at the 10th international conference on educational data mining.
+
+* Kai, S., Andres, J. M. L., Paquette, L., Baker, R. S., Molnar, K., Watkins, H., & Moore, M. (2017). Predicting Student Retention from Behavior in an Online Orientation Course. Proceedings of the 10th International Conference on Educational Data Mining (pp. 250-255).
+
+* Paquette, L., & Baker, R. S. (2017). Variations of gaming behaviors across populations of students and across learning environments. In Artificial Intelligence in Education: 18th International Conference, AIED 2017, Wuhan, China, June 28–July 1, 2017, Proceedings 18 (pp. 274-286). Springer International Publishing. https://doi.org/10.1007/978-3-319-61425-0_23
+
+* Ocumpaugh, J., Andres, J. M., Baker, R., DeFalco, J., Paquette, L., Rowe, J., ... & Sottilare, R. (2017). Affect dynamics in military trainees using vMedic: From engaged concentration to boredom to confusion. In Artificial Intelligence in Education: 18th International Conference, AIED 2017, Wuhan, China, June 28–July 1, 2017, Proceedings 18 (pp. 238-249). Springer International Publishing. https://doi.org/10.1007/978-3-319-61425-0_20
+
+* Wang, Y., Baker, R., & Paquette, L. (2017, March). Behavioral predictors of MOOC post-course development. In Proceedings of the Workshop on Integrated Learning Analytics of MOOC Post-Course Development.
