@@ -81,6 +81,19 @@ GitHub, Twitter, Site, etc.
 [{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=D44sPRgAAAAJ&hl=en)
 
 
+---
+
+
 ## Lab alumni
 
-- [Yingbin Zhang](https://yingbinzhang.netlify.app) (2018–2022)
+
+### Yingbin Zhang
+
+{{< figure src="/images/people/yingbin.jpg" class="people-image">}}
+
+**Current position:** Researcher at the Institute of Artificial Intelligence in Education, South China Normal University
+
+**Years in lab:** 2018–2022
+
+[{{< fa house >}} Personal Page](https://yingbinzhang.netlify.app/)\
+[{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=Uyp5YeQAAAAJ&hl=en&authuser=1)
