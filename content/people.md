@@ -18,18 +18,6 @@ type: "page"
 
 ## Graduate students
 
-### Yingbin Zhang
-
-{{< figure src="/images/people/yingbin.jpg" class="people-image">}}
-
-**Education:** M.A. in Educational Measurement (Beijing Normal University)
-
-**Year started:** 2018
-
-[{{< fa envelope >}} yingbin2@illinois.edu](mailto:yingbin2@illinois.edu)\
-[{{< fa house >}} Personal Page](https://yingbinzhang.netlify.app/)\
-[{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=Uyp5YeQAAAAJ&hl=en&authuser=1)
-
 
 ### Aysa Fan
 
@@ -91,3 +79,8 @@ GitHub, Twitter, Site, etc.
 
 [{{< fa envelope >}} zhang391@illinois.edu](mailto:zhang391@illinois.edu)\
 [{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=D44sPRgAAAAJ&hl=en)
+
+
+## Lab alumni
+
+- [Yingbin Zhang](https://yingbinzhang.netlify.app) (2018–2022)
