@@ -42,3 +42,12 @@ main#content>.container {
         font-size: 0.95rem;
     }
 }
+
+hr {
+    margin-top: 5rem;
+    border-color: #EA532B;
+}
+
+h2 {
+    color: #EA532B;
+}
