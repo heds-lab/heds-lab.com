@@ -14,4 +14,6 @@ This NSF-funded project formalizes a hybridized approach to student modeling tha
 
 ## Exploring algorithmic transparency: Interpretability and explainability of educational models
 
+{{< figure src="/images/research/FFnetwork.png" class="research-image">}}
+
 Our lab is investigating the challenge of interpretability that comes with many of the state-of-the-art predictive models in education. We are pursuing three general threads of research: (1) understanding the differences and tradeoffs between using post-hoc explainability vs. intrinsically interpretable methods for transparency, (2) creating intrinsically interpretable machine learning models that retain the advantages of more complex algorithms, and (3) devising metrics and designs to effectively evaluate the interpretability of prediction models. We are interested in collaborating in this space, so feel free to reach out!
