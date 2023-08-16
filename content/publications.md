@@ -12,6 +12,8 @@ type: "page"
 
 ### 2023
 
+* Verstege, S., Zhang, Y., Wierenga, P., Paquette, L., & Diederen, J. (2023). Using Sequential Pattern Mining to Understand How Students Use Guidance While Doing Scientific Calculations. Technology, Knowledge and Learning. https://doi.org/10.1007/s10758-023-09677-3
+
 * Y. Zhang, Paquette, L., Baker, R.S., Bosch, N., Ocumpaugh, J., & Biswas, G. (2023). How are feelings of difficulty and familiarity linked to learning behaviors and gains in a complex science learning task? European Journal of Psychology of Education, 38(2), 777-800. https://doi.org/10.1007/s10212-022-00616-x
 
 * Y. Zhang, & Paquette, L. (2023). Sequential pattern mining in educational data: The application context, potential, strengths, and limitations. In Educational Data Science: Essentials, Approaches, and Tendencies: Proactive Education based on Empirical Big Data Evidence (pp. 219-254). Singapore: Springer Nature Singapore. https://doi.org/10.1007/978-981-99-0026-8_6
