@@ -17,3 +17,24 @@ This NSF-funded project formalizes a hybridized approach to student modeling tha
 {{< figure src="/images/research/FFnetwork.png" class="research-image">}}
 
 Our lab is investigating the challenge of interpretability that comes with many of the state-of-the-art predictive models in education. We are pursuing three general threads of research: (1) understanding the differences and tradeoffs between using post-hoc explainability vs. intrinsically interpretable methods for transparency, (2) creating intrinsically interpretable machine learning models that retain the advantages of more complex algorithms, and (3) devising metrics and designs to effectively evaluate the interpretability of prediction models. We are interested in collaborating in this space, so feel free to reach out!
+
+
+## [INVITE AI Institute](https://invite.illinois.edu)
+
+{{< figure src="/images/research/INVITE-logo.png" class="research-image">}}
+
+Our lab is part of the INVITE Institute (INclusiVe Intelligent Technologies for Education), one of the NSF National AI Research Institutes. INVITE seeks to fundamentally reframe how AI-based educational technologies interact with learners by developing AI techniques to track and promote skills that underlie successful learning and contribute to academic success: persistence, academic resilience, and collaboration. The HEDS Lab primarily focuses on the learner modeling strand of the institute.
+
+
+## [Betty's Brain](https://wp0.vanderbilt.edu/oele/ecr-bettys-brain-bromp/)
+
+{{< figure src="/images/research/BettysBrain.png" class="research-image">}}
+
+https://wp0.vanderbilt.edu/oele/ecr-bettys-brain-bromp/
+
+
+## [CSTEPS](https://www.colearnlab.org/csteps2)
+
+{{< figure src="/images/research/CSTEPS.jpg" class="research-image">}}
+
+CSTEPS 2 (Collaborative Support Tools for Engineering Problem Solving 2)
