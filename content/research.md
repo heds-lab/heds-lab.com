@@ -19,12 +19,13 @@ This NSF-funded project formalizes a hybridized approach to student modeling tha
 The HEDS lab is investigating the challenge of interpretability that comes with many of the state-of-the-art predictive models in education. We are pursuing three general threads of research: (1) understanding the differences and tradeoffs between using post-hoc explainability vs. intrinsically interpretable methods for transparency, (2) creating intrinsically interpretable machine learning models that retain the advantages of more complex algorithms, and (3) devising metrics and designs to effectively evaluate the interpretability of prediction models. We are interested in collaborating in this space, so feel free to reach out!
 
 
-## [INVITE AI Institute](https://invite.illinois.edu)
+## [INVITE AI Institute (2023-2028)](https://invite.illinois.edu)
 
 {{< figure src="/images/research/INVITE-logo.png" class="research-image">}}
 
 The HEDS is part of the INVITE Institute (INclusiVe Intelligent Technologies for Education), one of the NSF National AI Research Institutes. INVITE seeks to fundamentally reframe how AI-based educational technologies interact with learners by developing AI techniques to track and promote skills that underlie successful learning and contribute to academic success: persistence, academic resilience, and collaboration. The HEDS Lab primarily focuses on the learner modeling strand of the institute.
 
+[NSF abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229612&HistoricalAwards=false)
 
 ## [Using Data Mining and Observation to Derive an Enhanced Theory of SRL in Science Learning Environments (2016-2021)](https://wp0.vanderbilt.edu/oele/ecr-bettys-brain-bromp/)
 
