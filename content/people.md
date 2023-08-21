@@ -23,11 +23,14 @@ type: "page"
 
 {{< figure src="/images/people/aysa.jpg" class="people-image">}}
 
-**Education:**
+**Education:** Master of Information and Data Science (UC Berkeley)
 
 **Year started:** 2019
 
-GitHub, Twitter, Site, etc.
+[{{< fa envelope >}} xuemof2@illinois.edu](mailto:xuemof2@illinois.edu)\
+[{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=RJ9ICpYAAAAJ&hl=en&authuser=1&oi=ao)\
+[{{< fa fab github >}} GitHub](https://github.com/aysafanxm)
+
 
 
 ### Juan Pinto
@@ -49,11 +52,13 @@ GitHub, Twitter, Site, etc.
 
 {{< figure src="/images/people/sophie.jpg" class="people-image">}}
 
-**Education:**
+**Education:** Bachelor and master in Information Science (Peking University, China)
 
 **Year started:** 2021
 
-GitHub, Twitter, Site, etc.
+[{{< fa envelope >}} ql29@illinois.edu](mailto:ql29@illinois.edu)\
+[{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=Nm_00h4AAAAJ&hl=en&oi=ao)\
+[{{< fa fab github >}} GitHub](https://github.com/sophielqh)
 
 
 ### Rachel Zhou
