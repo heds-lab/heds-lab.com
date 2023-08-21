@@ -16,25 +16,30 @@ This NSF-funded project formalizes a hybridized approach to student modeling tha
 
 {{< figure src="/images/research/FFnetwork.png" class="research-image">}}
 
-Our lab is investigating the challenge of interpretability that comes with many of the state-of-the-art predictive models in education. We are pursuing three general threads of research: (1) understanding the differences and tradeoffs between using post-hoc explainability vs. intrinsically interpretable methods for transparency, (2) creating intrinsically interpretable machine learning models that retain the advantages of more complex algorithms, and (3) devising metrics and designs to effectively evaluate the interpretability of prediction models. We are interested in collaborating in this space, so feel free to reach out!
+The HEDS lab is investigating the challenge of interpretability that comes with many of the state-of-the-art predictive models in education. We are pursuing three general threads of research: (1) understanding the differences and tradeoffs between using post-hoc explainability vs. intrinsically interpretable methods for transparency, (2) creating intrinsically interpretable machine learning models that retain the advantages of more complex algorithms, and (3) devising metrics and designs to effectively evaluate the interpretability of prediction models. We are interested in collaborating in this space, so feel free to reach out!
 
 
 ## [INVITE AI Institute](https://invite.illinois.edu)
 
 {{< figure src="/images/research/INVITE-logo.png" class="research-image">}}
 
-Our lab is part of the INVITE Institute (INclusiVe Intelligent Technologies for Education), one of the NSF National AI Research Institutes. INVITE seeks to fundamentally reframe how AI-based educational technologies interact with learners by developing AI techniques to track and promote skills that underlie successful learning and contribute to academic success: persistence, academic resilience, and collaboration. The HEDS Lab primarily focuses on the learner modeling strand of the institute.
+The HEDS is part of the INVITE Institute (INclusiVe Intelligent Technologies for Education), one of the NSF National AI Research Institutes. INVITE seeks to fundamentally reframe how AI-based educational technologies interact with learners by developing AI techniques to track and promote skills that underlie successful learning and contribute to academic success: persistence, academic resilience, and collaboration. The HEDS Lab primarily focuses on the learner modeling strand of the institute.
 
 
-## [Betty's Brain](https://wp0.vanderbilt.edu/oele/ecr-bettys-brain-bromp/)
+## [Using Data Mining and Observation to Derive an Enhanced Theory of SRL in Science Learning Environments (2016-2021)](https://wp0.vanderbilt.edu/oele/ecr-bettys-brain-bromp/)
 
 {{< figure src="/images/research/BettysBrain.png" class="research-image">}}
 
-https://wp0.vanderbilt.edu/oele/ecr-bettys-brain-bromp/
+The primary goal for this project was to enhance the theory and measurement of students’ self-regulated learning (SRL) processes during science learning by developing a technology based framework which leverages human expert judgment and machine learning methods to identify key moments during SRL and analyze these moments in depth. These issues are being studied in the context of Betty’s Brain, an open-ended science learning environment that combines learning-by-modeling with critical thinking and problem-solving skills to teach complex science topics. This project used data-driven detectors of student SRL behaviors and emotional states to conduct with in-the-moment qualitative interviews at key moments in the students' interaction with Betty's Brain.
+
+[NSF abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1665216)
 
 
-## [CSTEPS](https://www.colearnlab.org/csteps2)
+## [Improving Collaborative Learning in Engineering Classes Through Integrated Tools (2016-2021)](https://www.colearnlab.org/csteps2)
 
 {{< figure src="/images/research/CSTEPS.jpg" class="research-image">}}
 
-CSTEPS 2 (Collaborative Support Tools for Engineering Problem Solving 2)
+The goal of this project is to design and study tools that 1) support teaching assistants learning about and implementing collaborative learning and 2) support students engaged in collaborative problem solving activities. In this project, we used log-data produced by students as they work in groups on a tablet computer to develop automated detectors related to their collaboration. These detectors were used to drive automated in-the-moment prompts to guide instructors in supporting their students' collaborative problem solving.
+
+
+[NSF abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1628976)
