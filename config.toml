@@ -46,11 +46,11 @@ enableRobotsTXT = true
     url = "/publications/"
     weight = 4
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "Get in touch"
-    url = "/contact/"
-    weight = 5
+#   [[menu.main]]
+#     identifier = "contact"
+#     name = "Get in touch"
+#     url = "/contact/"
+#     weight = 5
 
     # We use feather-icons: https://feathericons.com/
     # pre = "<span data-feather='github'></span>"
