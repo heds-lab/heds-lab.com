@@ -51,3 +51,10 @@ hr {
 h2 {
     color: #EA532B;
 }
+
+
+.home-content {
+    margin: 0 auto;
+    /* text-align: left; */
+    max-width: 600px;
+}
