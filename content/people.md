@@ -86,6 +86,17 @@ type: "page"
 [{{< fa fab google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=D44sPRgAAAAJ&hl=en)
 
 
+### Hyeongjo Kim
+
+{{< figure src="/images/people/hyeongjo.jpg" class="people-image" >}}
+
+**Education:** M.S. in Educational Technology (Seoul National University)
+
+**Year started:** 2024
+
+{{< rawhtml >}}<br><br><br>{{< /rawhtml >}}
+
+
 ---
 
 
