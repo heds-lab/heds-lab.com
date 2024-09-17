@@ -6,11 +6,19 @@ type: "page"
 
 ## Papers by year of publication
 
-### Pre-print
+### 2024
 
-* Baker, R. S., Hutt, S., Bosch, N., Ocumpaugh, J., Biswas, G., Paquette, L., Andres, J.M.A., Nasiar, N., & Munshi, A. (2023). Data-Driven Classroom Interviewing: Data Science to Target Qualitative Research. EdArXiv Preprints. https://doi.org/10.35542/osf.io/xsb4a
+* Zhang, Y., Paquette, L., & Hu, X. (2024). Academic procrastination, incentivized and self-selected spaced practice, and quiz performance in an online programming problem system: An intensive longitudinal investigation. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105029
+  
+* Zhang, Y., Ye, Y., Paquette, L., & Hu, X. (2024). Investigating the reliability of aggregate measurements of learning process data: From theory to practice. Journal of Computer Assisted Learning. https://doi.org/10.1111/jcal.12951
 
 ### 2023
+
+* Baker, R. S., Hutt, S., Bosch, N., Ocumpaugh, J., Biswas, G., Paquette, L., Andres, J.M.A., Nasiar, N., & Munshi, A. (2023). Detector-driven classroom interviewing: focusing qualitative researcher time by selecting cases in situ. Educational Technology Resarch and Development, Special Issue on Methodologies for Research on Educational Technology: Emerging Appraoches. https://doi.org/10.1007/s11423-023-10324-y
+  
+* Pinto, J.D., Liu, Q., Paquette, L., Zhang, Y., & Fan, A. (2023). Investigating the Relationship Between Programming Experience and Debugging Behaviors in an Introductory Computer Science Course. ICQE 2023: Advances in Quantitative Ethnography, 125-139. https://doi.org/10.1007/978-3-031-47014-1_9
+  
+* Fan, A., Zhang, H., Paquette, L., & Zhang, R. (2023). Exploring the Potential of Large Language Models in Generating Code-Tracing Questions for Introductory Programming Courses. Findings of the Association for Computational Linguistics: EMNLP 2023. https://doi.org/10.18653/v1/2023.findings-emnlp.496
 
 * Verstege, S., Zhang, Y., Wierenga, P., Paquette, L., & Diederen, J. (2023). Using Sequential Pattern Mining to Understand How Students Use Guidance While Doing Scientific Calculations. Technology, Knowledge and Learning. https://doi.org/10.1007/s10758-023-09677-3
 
