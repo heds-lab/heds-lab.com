@@ -57,4 +57,5 @@ h2 {
     margin: 0 auto;
     /* text-align: left; */
     max-width: 600px;
+    line-height: 1.5;
 }
