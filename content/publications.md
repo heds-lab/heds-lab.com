@@ -8,11 +8,27 @@ type: "page"
 
 ### 2024
 
+* Fan, A.X., Liu, Q., Paquette, L., & Pinto, J. (2024). Using LLM-Based Filtering to Develop Reliable Coding Schemes for Rare Debugging Strategies. In Proceedings of Advances in Quantitative Ethnography (ICQE 2024) (pp. 136-151). https://doi.org/10.1007/978-3-031-76335-9_10
+
+* Lawrence, L., Mercier, M., Parks, T.T., Bosch, N., & Paquette, L. (2024). Accuracy and effectiveness of an orchestration tool on instructors’ interventions and groups’ collaboration. Computers and Education Open, 7, 100203. https://doi.org/10.1016/j.caeo.2024.100203 
+
+* Zhang, Y., Paquette, L., & Bosch, N. (2024). Conditional and Marginal Strengths of Affect Transitions During Computer-Based Learning. International Journal of Artificial Intelligence in Education, 1-29. https://doi.org/10.1007/s40593-024-00430-0
+
+* Zhang, Y., Paquette, L., & Bosch, N. (2024). Using Permutation Tests to Identify Statistically Sound and Nonredundant Sequential Patterns in Educational Even Sequences. Journal of Educational and Behavioral Statistics. https://doi.org/10.3102/10769986241248772 
+
 * Zhang, Y., Paquette, L., & Hu, X. (2024). Academic procrastination, incentivized and self-selected spaced practice, and quiz performance in an online programming problem system: An intensive longitudinal investigation. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105029
   
 * Zhang, Y., Ye, Y., Paquette, L., & Hu, X. (2024). Investigating the reliability of aggregate measurements of learning process data: From theory to practice. Journal of Computer Assisted Learning. https://doi.org/10.1111/jcal.12951
+  
+* Liu, Q., Pinto, J.D., & Paquette, L. (2024). Applications of Explainable AI (XAI) in Education. In Trust and Inclusion in AI-Mediated Education: Where Human Learning Meets Learning Machines (pp. 93-109). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-64487-0_5
+
+* Pinto, J., & Paquette, L. (2024). Deep Learning for Educational Data Science. In Trust and Inclusion in AI-Mediated Education: Where Human Learning Meets Learning Machines (pp. 111-139). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-64487-0_6
+
+* Verstege, S., Zhang, Y., Wierenga, P., Paquette, L., & Diederen, J. (2023). Using Sequential Pattern Mining to Understand How Students Use Guidance While Doing Scientific Calculations. Technology, Knowledge and Learning, 29(2), 897-920. https://doi.org/10.1007/s10758-023-09677-3
 
 * Zhou, Y., & Paquette, L. (2024). Investigating Student Interest in a Minecraft-Based Learning Environment: A Changepoint Detection Analysis. In Proceedings of the 17th Educational Data Mining Conference (pp. 396-404). https://doi.org/10.5281/zenodo.12729844
+  
+* Pinto, J.D., & Paquette, L. (2024). Towards a Unified Framework for Evaluating Explanation. Presented at HEXED Workshop @ EDM 24. https://arxiv.org/abs/2405.14016
   
 * Zhang, J., & Paquette, L. (2024). An Exploratory Analysis of Students' Problem-Solving Strategies in the Water Cycle Game. In Proceedings of the 17th Educational Data Mining Conference (pp. 828-834). https://doi.org/10.5281/zenodo.12729964
 
@@ -25,8 +41,6 @@ type: "page"
 * Pinto, J.D., Liu, Q., Paquette, L., Zhang, Y., & Fan, A. (2023). Investigating the Relationship Between Programming Experience and Debugging Behaviors in an Introductory Computer Science Course. ICQE 2023: Advances in Quantitative Ethnography, 125-139. https://doi.org/10.1007/978-3-031-47014-1_9
   
 * Fan, A., Zhang, H., Paquette, L., & Zhang, R. (2023). Exploring the Potential of Large Language Models in Generating Code-Tracing Questions for Introductory Programming Courses. Findings of the Association for Computational Linguistics: EMNLP 2023. https://doi.org/10.18653/v1/2023.findings-emnlp.496
-
-* Verstege, S., Zhang, Y., Wierenga, P., Paquette, L., & Diederen, J. (2023). Using Sequential Pattern Mining to Understand How Students Use Guidance While Doing Scientific Calculations. Technology, Knowledge and Learning. https://doi.org/10.1007/s10758-023-09677-3
 
 * Y. Zhang, Paquette, L., Baker, R.S., Bosch, N., Ocumpaugh, J., & Biswas, G. (2023). How are feelings of difficulty and familiarity linked to learning behaviors and gains in a complex science learning task? European Journal of Psychology of Education, 38(2), 777-800. https://doi.org/10.1007/s10212-022-00616-x
 
