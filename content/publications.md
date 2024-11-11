@@ -12,6 +12,12 @@ type: "page"
   
 * Zhang, Y., Ye, Y., Paquette, L., & Hu, X. (2024). Investigating the reliability of aggregate measurements of learning process data: From theory to practice. Journal of Computer Assisted Learning. https://doi.org/10.1111/jcal.12951
 
+* Zhou, Y., & Paquette, L. (2024). Investigating Student Interest in a Minecraft-Based Learning Environment: A Changepoint Detection Analysis. In Proceedings of the 17th Educational Data Mining Conference (pp. 396-404). https://doi.org/10.5281/zenodo.12729844
+  
+* Zhang, J., & Paquette, L. (2024). An Exploratory Analysis of Students' Problem-Solving Strategies in the Water Cycle Game. In Proceedings of the 17th Educational Data Mining Conference (pp. 828-834). https://doi.org/10.5281/zenodo.12729964
+
+* Pinto, J., Paquette, L., Swamy, V., Käser, T., Liu, Q., & Cohausz (2024). Human-Centric eXplainable AI in Education. In Proceedings of the 17th Educational Data Mining Conference (pp. 1030-1033). https://doi.org/10.5281/zenodo.12730045 
+
 ### 2023
 
 * Baker, R. S., Hutt, S., Bosch, N., Ocumpaugh, J., Biswas, G., Paquette, L., Andres, J.M.A., Nasiar, N., & Munshi, A. (2023). Detector-driven classroom interviewing: focusing qualitative researcher time by selecting cases in situ. Educational Technology Resarch and Development, Special Issue on Methodologies for Research on Educational Technology: Emerging Appraoches. https://doi.org/10.1007/s11423-023-10324-y
