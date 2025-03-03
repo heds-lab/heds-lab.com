@@ -18,6 +18,23 @@ This NSF-funded project formalizes a hybridized approach to student modeling tha
 
 The HEDS lab is investigating the challenge of interpretability that comes with many of the state-of-the-art predictive models in education. We are pursuing three general threads of research: (1) understanding the differences and tradeoffs between using post-hoc explainability vs. intrinsically interpretable methods for transparency, (2) creating intrinsically interpretable machine learning models that retain the advantages of more complex algorithms, and (3) devising metrics and designs to effectively evaluate the interpretability of prediction models. We are interested in collaborating in this space, so feel free to reach out!
 
+**Relevant links:**
+
+- [Human-Centric eXplainable AI in Education Workshop (HEXED)](https://hexed-workshop.github.io), co-organized by members of our lab
+- Liu, Q., Pinto, J. D., & Paquette, L. (2024). [Applications of explainable AI (XAI) in education](https://link.springer.com/chapter/10.1007/978-3-031-64487-0_5)
+- Pinto, J. D., & Paquette, L. (2024). [Towards a unified framework for evaluating explanations](https://ceur-ws.org/Vol-3840/HEXED24_paper4.pdf)
+
+
+### Constraints-based approach to interpretable-by-design modeling
+
+As part of our efforts to explore algorithmic transparency, one approach we are taking is focused creating a fully interpretable model, meaning that the parameters we extract for our explanations have a clear interpretation, fully capture the model's learned knowledge about the learner behavior of interest, and can be used to create explanations that are both faithful and intelligible. This project involves three main goals: (1) develop an interpretable neural network, comparing accuracy and issues relevant to interpretability approaches as a whole, (2) evaluate this model's level of interpretability using a human-grounded evaluation approach, and (3) validate the model's inner representations and explore some hypothetical advantages of interpretable models, including their use for knowledge discovery. We are now working on our second goal and will post updated results on this page as we obtain them.
+
+**Relevant links:**
+
+- Pinto, J. D., Paquette, L., & Bosch, N. (2024). [Intrinsically interpretable artificial neural networks for learner modeling](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-doctoral-consortium.121/)
+- Pinto, J. D., Paquette, L., & Bosch, N. (2023). [Interpretable neural networks vs. expert-defined models for learner
+behavior detection](https://jdpinto.com/papers/Pinto%20et%20al%202023_Interpretable%20neural%20networks%20vs.pdf)
+
 
 ## [INVITE AI Institute (2023-2028)](https://invite.illinois.edu)
 
@@ -26,6 +43,7 @@ The HEDS lab is investigating the challenge of interpretability that comes with 
 The HEDS is part of the INVITE Institute (INclusiVe Intelligent Technologies for Education), one of the NSF National AI Research Institutes. INVITE seeks to fundamentally reframe how AI-based educational technologies interact with learners by developing AI techniques to track and promote skills that underlie successful learning and contribute to academic success: persistence, academic resilience, and collaboration. The HEDS Lab primarily focuses on the learner modeling strand of the institute.
 
 [NSF abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229612&HistoricalAwards=false)
+
 
 ## [Using Data Mining and Observation to Derive an Enhanced Theory of SRL in Science Learning Environments (2016-2021)](https://wp0.vanderbilt.edu/oele/ecr-bettys-brain-bromp/)
 
